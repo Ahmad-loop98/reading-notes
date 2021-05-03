@@ -11,9 +11,9 @@ good   |excellent
 need help|no need
 put some effort is must|acheived to goal
 
-1.** I remind my self by encourging **
-2.**  i remind by put some notes on desk**
-3.**  speaking with others is aplus**
+1. I remind my self by encourging 
+2. i remind by put some notes on desk
+3. speaking with others is aplus*
 
 ![](https://miro.medium.com/max/5000/0*N1ARH4qFuppKPSKP)
 [facebook](http//:facebook.com)
@@ -24,7 +24,5 @@ as a wiseman once said
 # hello im ahmad 
 ## I have more challenges to concern. 
 ##### it is ramadan work on yourself  
-&dragonfly
-*dragonfruit
-*facebook
+
 
