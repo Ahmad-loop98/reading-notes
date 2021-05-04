@@ -9,3 +9,5 @@ CSS colors added more meaningful for content and use background colors to make b
 ## CSS reference ##
 to browse your selectors and stick to the rules  of this language.
 _reset css_ to avoid inconsistencies.
+### always remember to make website simple .
+
