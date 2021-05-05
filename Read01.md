@@ -1,0 +1,27 @@
+# reading-notes
+
+* mindest is aself theory and how we should think about things and put some efforts as well trying to solve obtacles to get your goals 
+ it is proper for a person to develop and learn new things*
+1. fixed  
+2. growth 
+
+fixed  | growth
+-------|-------
+good   |excellent
+need help|no need
+put some effort is must|acheived to goal
+
+1. I remind my self by *encourging*. 
+2. i remind by put some **notes** on desk.
+3.speaking with others is aplus.
+ ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupqNIdZGqCY3NGmYTeL3EvA9k0yNVNxaZgQ&usqp=CAU) 
+![](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
+![](https://miro.medium.com/max/5000/0*N1ARH4qFuppKPSKP)
+[facebook](http//:facebook.com)
+
+as a wiseman once said
+> the trip of 1000 miles starts with astep
+> fight until you win
+# hello im ahmad 
+## I have more challenges to concern. 
+##### it is ramadan work on yourself  

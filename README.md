@@ -1,30 +1,10 @@
-# reading-notes
+My name is ahmad alsadi Im 23 years old I graduated earlier this year from university i like **tennis and football** My goal is to gain some expeirence in software and to travel around world to see new cultures and learn new things that is different like weather forcasting.
+_table of contents_.
+| contents      |links  |
+| ----------- | ----------- |
+| Read01   |  https://replit.com/@Ahmadalsadi/reading-notes#Read01    |
+| Read02       |    https://replit.com/@Ahmadalsadi/reading-notes#Read02   |
+[]( https://ahmad-loop98.github.io/reading-notes/)
 
-* mindest is aself theory and how we should think about things and put some efforts as well trying to solve obtacles to get your goals 
- it is proper for a person to develop and learn new things*
-1. fixed  
-2. growth 
 
-fixed  | growth
--------|-------
-good   |excellent
-need help|no need
-put some effort is must|acheived to goal
-
-** I remind my self by encourging **
-**  i remind by put some notes on desk**
-**  speaking with others is aplus**
-
-![](https://miro.medium.com/max/5000/0*N1ARH4qFuppKPSKP)
-[facebook](http//:facebook.com)
-
-as a wiseman once said
-> the trip of 1000 miles starts with astep
-> fight until you win
-# hello im ahmad 
-## I have more challenges to concern. 
-##### it is ramadan work on yourself  
-&dragonfly
-*dragonfruit
-*facebook
 
