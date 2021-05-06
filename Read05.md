@@ -18,5 +18,5 @@ and then of course you need to print your output so you want a console.log .
 ## While Loop
 it only takes a condition and as well as your condition is true it will execute the loop.
 
-**Notice that your condition in aloop statement must reach a point and after this point it should terminates to false otherwise your loop will be executed forever **
+_**Notice that your condition in aloop statement must reach a point and after this point it should terminates to false otherwise your loop will be executed forever _**
 
